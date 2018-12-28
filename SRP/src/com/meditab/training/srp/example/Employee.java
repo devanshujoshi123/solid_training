@@ -1,4 +1,4 @@
-package com.meditab.training.srp.example;
+package com.meditab.training.srp.exercise;
 
 public class Employee
 {
